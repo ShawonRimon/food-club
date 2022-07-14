@@ -1,0 +1,76 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    margin: 2%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.sec-1-headding {
+    font-size: 70px;
+    font-weight: 800;
+
+
+}
+
+h2 {
+    margin-bottom: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orangered;
+    font-size: 25px;
+    font-weight: 700;
+    border-radius: 25px;
+    padding: 20px 40px;
+
+}
+
+.color-orange {
+    color: orangered;
+}
+
+.color-gray {
+    color: gray;
+}
+
+#backgrund-image {
+    text-align: left;
+    color: gray;
+    padding-top: 100px;
+    padding-left: 700px;
+    padding-bottom: 50px;
+    background-image: url(female.png);
+    height: 450px;
+
+
+}
+
+#backgrund-image h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#backgrund-image h2 {
+    margin-bottom: 80px;
+}
+
+.width-20 {
+    text-align: center;
+    box-shadow: 10px 10px 50px orangered;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-right: 25px;
+
+}
